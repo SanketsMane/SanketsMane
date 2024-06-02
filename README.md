@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Mane</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketsmane&label=Profile%20views&color=0e75b6&style=flat" alt="sanketsmane" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketsmane" alt="sanketsmane" /></a> </p>
-
 - 🌱 I’m currently learning **SAP FIORI UI5**
 
 - 👨‍💻 All of my projects are available at [http://sanketmane.rf.gd/](http://sanketmane.rf.gd/)
@@ -25,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketsmane&show_icons=true&locale=en&layout=compact" alt="sanketsmane" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketsmane&show_icons=true&locale=en" alt="sanketsmane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsmane&" alt="sanketsmane" /></p>
