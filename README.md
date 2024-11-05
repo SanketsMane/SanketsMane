@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Mane</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Wb Dev**
+- 🌱 I’m currently learning **Full Stack Web Dev**
 
 - 👨‍💻 All of my projects are available at [http://sanketmane.rf.gd/](http://sanketmane.rf.gd/)
 
