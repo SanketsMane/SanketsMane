@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://sanketmane.rf.gd/](http://sanketmane.rf.gd/)
 
-- 💬 Ask me about **Java, React, python, javascript, SAP UI5, Frontend and Backend**
+- 💬 Ask me about **Java, React, python, javascript, Frontend and Backend**
 
 - 📫 How to reach me **contactsanket1@gmail.com**
 
